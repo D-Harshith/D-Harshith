@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Enterprise-grade RAG systems using LangChain & FastAPI<br>I’m looking to collaborate on Open-source GenAI tools & Data Engineering pipelines<br>I’m looking for help with Advanced optimization of Vector DB indexing<br>I’m currently learning Agentic AI patterns & Multi-modal LLMs<br>Ask me about Generative AI, RAG, Python, SQL, & ETL processes<br>Fun fact I view data cleaning as the most critical step in AI success
+I’m currently working on Enterprise-grade RAG systems using LangChain & FastAPI<br>I’m looking to collaborate on Open-source GenAI tools & Data Engineering pipelines<br>I’m currently learning Agentic AI patterns & Multi-modal LLMs<br>Ask me about Generative AI, RAG, Python, SQL, & ETL processes<br>Fun fact I view data cleaning as the most critical step in AI success
 
 
 ## 🌐 Socials:
