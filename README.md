@@ -1,3 +1,5 @@
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:7C3AED,100:F59E0B&height=150&section=header"/>
 
 <h1 align="center">
@@ -15,9 +17,9 @@
 <a href="https://github.com/D-Harshith"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://komarev.com/ghpvc/?username=D-Harshith&color=7C3AED&style=flat-square&label=Profile+Views"/>
-</p>
+</p> -->
 
 ---
 
@@ -33,7 +35,7 @@
 
 My journey started with a simple belief: **data without action is just noise.**
 
-With over 3 years of hands-on experience in data analytics and risk modeling at **Evontex IT Solutions** and **Indiana University**, I started where every great data story begins — **asking the right questions**. I learned to clean messy datasets, build KPI dashboards, write complex SQL queries, uncover trends through EDA, and translate numbers into business strategy that stakeholders actually act on.
+With over 3 years of hands-on experience in data analytics and risk modeling, I started where every great data story begins — **asking the right questions**. I learned to clean messy datasets, build KPI dashboards, write complex SQL queries, uncover trends through EDA, and translate numbers into business strategy that stakeholders actually act on.
 
 But dashboards and reports were never the finish line for me — I wanted systems that *think*.
 
@@ -196,13 +198,13 @@ That analytical foundation became the launchpad. Understanding *how* data behave
 ## 📈 GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=D-Harshith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F59E0B&text_color=C9D1D9&count_private=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=D-Harshith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F59E0B&text_color=C9D1D9&count_private=true&include_all_commits=true"/>
 &nbsp;
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=D-Harshith&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA"/>
 </p>
 
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Harshith&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&layout=compact&langs_count=8"/>
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=D-Harshith&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&layout=compact&langs_count=8"/>
 </p>
 
 ---
@@ -210,7 +212,7 @@ That analytical foundation became the launchpad. Understanding *how* data behave
 ## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=D-Harshith&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+<img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=D-Harshith&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10"/>
 </p>
 
 ---
