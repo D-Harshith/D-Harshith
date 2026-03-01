@@ -1,4 +1,6 @@
-
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     HARSHITH DOPPALAPUDI                          -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:7C3AED,100:F59E0B&height=150&section=header"/>
 
@@ -195,24 +197,10 @@ That analytical foundation became the launchpad. Understanding *how* data behave
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 Top Languages
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=D-Harshith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F59E0B&text_color=C9D1D9&count_private=true&include_all_commits=true"/>
-&nbsp;
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=D-Harshith&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA"/>
-</p>
-
-<p align="center">
-<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=D-Harshith&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&layout=compact&langs_count=8"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=D-Harshith&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+<img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=D-Harshith&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&layout=compact&langs_count=8"/>
 </p>
 
 ---
@@ -226,13 +214,8 @@ That analytical foundation became the launchpad. Understanding *how* data behave
 ---
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=D-Harshith&bg_color=0D1117&color=A78BFA&line=F59E0B&point=A78BFA&area=true&area_color=7C3AED&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
 <em>"Started by reading the data. Now I build the systems that read it for you."</em>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:7C3AED,100:F59E0B&height=120&section=footer"/>
+
